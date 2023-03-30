@@ -1,0 +1,33 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ch.sbb.p.clean.vorkuehlen_app",
+    "sha256_cert_fingerprints":
+    ["7A:60:BA:92:43:1D:BD:1A:79:B7:CA:3C:16:2C:17:7D:F5:6A:96:D8:4A:68:A1:4A:88:32:CD:4E:09:69:43:6F"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ch.sbb.p.clean.vorkuehlen_app.dev",
+    "sha256_cert_fingerprints":
+    ["7A:60:BA:92:43:1D:BD:1A:79:B7:CA:3C:16:2C:17:7D:F5:6A:96:D8:4A:68:A1:4A:88:32:CD:4E:09:69:43:6F"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ch.sbb.p.clean.vorkuehlen_app.int",
+    "sha256_cert_fingerprints":
+    ["7A:60:BA:92:43:1D:BD:1A:79:B7:CA:3C:16:2C:17:7D:F5:6A:96:D8:4A:68:A1:4A:88:32:CD:4E:09:69:43:6F"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ch.sbb.p.clean.vorkuehlen_app.it",
+    "sha256_cert_fingerprints":
+    ["7A:60:BA:92:43:1D:BD:1A:79:B7:CA:3C:16:2C:17:7D:F5:6A:96:D8:4A:68:A1:4A:88:32:CD:4E:09:69:43:6F"]
+  }
+}]

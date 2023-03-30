@@ -1,0 +1,19 @@
+{
+  "applinks": {
+      "details": [
+      {
+        "appID": [
+            "ZB8B4MY472.ch.sbb.p.clean.vorkuehlenApp.deve",
+            "ZB8B4MY472.ch.sbb.p.clean.vorkuehlenApp.inte",
+            "ZB8B4MY472.ch.sbb.p.clean.vorkuehlenApp"
+        ],
+        "components": [
+            {
+                "/": "/overview/*",
+                "comment": "Matches any URL with a path that starts with /overview/."
+            },
+        ]
+      }
+    ]
+  }
+}
