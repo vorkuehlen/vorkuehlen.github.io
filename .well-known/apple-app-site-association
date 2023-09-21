@@ -2,15 +2,15 @@
   "applinks": {
       "details" : [
       {
-        "appID": "P2M8L992PE.ch.sbb.p.clean.vorkuehlenApp.deve",
+        "appID": "ch.sbb.p.clean.vorkuehlenApp.deve",
         "paths" : ["*"]
       }, 
       {
-        "appID": "P2M8L992PE.ch.sbb.p.clean.vorkuehlenApp.inte",
+        "appID": "ch.sbb.p.clean.vorkuehlenApp.inte",
         "paths": ["*"]
       },
       {
-        "appID": "P2M8L992PE.ch.sbb.p.clean.vorkuehlenApp",
+        "appID": "ch.sbb.p.clean.vorkuehlenApp",
         "paths": ["*"]
       }
     ]
